@@ -1,0 +1,37 @@
+{
+  "unk_token": {
+    "content": "<unk>",
+    "lstrip": false,
+    "rstrip": false
+  },
+  "pad_token": {
+    "content": "<pad>",
+    "lstrip": false,
+    "rstrip": false
+  },
+  "bos_token": {
+    "content": "<bos>",
+    "lstrip": false,
+    "rstrip": false
+  },
+  "eos_token": {
+    "content": "<eos>",
+    "lstrip": false,
+    "rstrip": false
+  },
+  "cls_token": {
+    "content": "<cls>",
+    "lstrip": false,
+    "rstrip": false
+  },
+  "sep_token": {
+    "content": "<sep>",
+    "lstrip": false,
+    "rstrip": false
+  },
+  "mask_token": {
+    "content": "<mask>",
+    "lstrip": false,
+    "rstrip": false
+  }
+}

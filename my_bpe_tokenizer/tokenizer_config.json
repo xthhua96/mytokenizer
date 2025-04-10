@@ -1,0 +1,11 @@
+{
+  "unk_token": "<unk>",
+  "pad_token": "<pad>",
+  "bos_token": "<bos>",
+  "eos_token": "<eos>",
+  "cls_token": "<cls>",
+  "sep_token": "<sep>",
+  "mask_token": "<mask>",
+  "tokenizer_class": "SelfBPETokenizer",
+  "model_max_length": 512
+}
